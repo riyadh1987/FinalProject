@@ -1,0 +1,16 @@
+.HeaderContainer {
+  background: #fc4300;
+  display: flex;
+  flex-wrap: nowrap;
+  position: relative;
+  justify-content: space-between;
+  padding: 0.5rem 2rem;
+  align-items: center;
+  min-height: 3rem;
+}
+
+.HeaderLogo {
+  font-size: 1.5rem;
+  color: white;
+  margin: 0 2rem 0 0;
+}
